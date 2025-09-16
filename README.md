@@ -1,0 +1,1 @@
+This repository contains all my tasks and projects completed during my Future Interns Internship Program. Each task focuses on applying Python, Machine Learning, and Data Science concepts to solve real-world business problems.
